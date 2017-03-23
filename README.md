@@ -1,5 +1,5 @@
 # docker-hisoku-scribe
-Docker scribe for Hisoku
+Docker scribe for Hisoku (https://github.com/ronnywang/hisoku)
 
 ### files
 
